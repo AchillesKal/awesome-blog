@@ -9,7 +9,7 @@
     "build": "gatsby build"
   },
   "dependencies": {
-    "gatsby": "^2.21.37",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.4.5",
     "gatsby-plugin-sharp": "^2.6.9",
     "gatsby-theme-minimal": "^1.0.0",
